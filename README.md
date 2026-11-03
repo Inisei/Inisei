@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Inisei&style=for-the-badge&color=7C3AED&label=SYSTEM+ACCESSES" alt="views" />
 <img src="https://img.shields.io/badge/Location-European%20Union-161224?style=for-the-badge&logo=globe&logoColor=A855F7" alt="Location" />
-<img src="https://img.shields.io/badge/Root--Me-645%20PTS%20%C2%B7%209%20Flags%20(~71.7%20avg)-161224?style=for-the-badge&logo=hackthebox&logoColor=A855F7" alt="Root-Me" />
+<a href="https://www.root-me.org/ini-1150284" target="_blank"><img src="https://img.shields.io/badge/Root--Me-645%20PTS%20%C2%B7%209%20Flags%20(~71.7%20avg)-161224?style=for-the-badge&logo=hackthebox&logoColor=A855F7" alt="Root-Me" /></a>
 <img src="https://img.shields.io/badge/Status-Operating%2024%2F7%20Clusters-7C3AED?style=for-the-badge&logoColor=white" alt="Status" />
 
 </div>
@@ -48,6 +48,18 @@ type Inisei struct {
     Operating  bool     // true (24/7 autonomous production fleets)
 }
 ```
+
+<br/>
+
+## 🛡️ `EXPLOITATION` — Offensive Telemetry & Security Lab
+
+<div align="center">
+  <a href="https://www.root-me.org/ini-1150284" target="_blank">
+    <img src="./assets/rootme-telemetry.gif" width="100%" alt="Root-Me Verified Telemetry" />
+  </a>
+  <br/>
+  <sub><i>Click card to inspect verified Root-Me audit profile & validation records.</i></sub>
+</div>
 
 <br/>
 
@@ -137,6 +149,7 @@ Low-level security research laboratory exploring multi-process supervisor-worker
 
 <a href="https://guns.lol/inisei" target="_blank"><img src="https://img.shields.io/badge/Guns.lol-inisei-161224?style=for-the-badge&logo=firefox&logoColor=A855F7" alt="Guns.lol" /></a>
 <a href="https://www.linkedin.com/in/pohrebniak-systems-architect/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Roman%20Pohrebniak-161224?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
+<a href="https://www.root-me.org/ini-1150284" target="_blank"><img src="https://img.shields.io/badge/Root--Me-ini--1150284-161224?style=for-the-badge&logo=hackthebox&logoColor=A855F7" alt="Root-Me" /></a>
 <img src="https://img.shields.io/badge/Status-Operating%2024%2F7-7C3AED?style=for-the-badge&logoColor=white" alt="Status" />
 
 <br/><br/>
