@@ -120,6 +120,16 @@ Low-level security research laboratory exploring multi-process supervisor-worker
 
 <br/>
 
+## ⚡ `ACTIVITY` — Contribution Grid
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Inisei/Inisei/output/snake.svg" alt="contribution snake" />
+  <br/>
+  <sub><i>Autonomous snake traversing the contribution grid.</i></sub>
+</div>
+
+<br/>
+
 ## 📡 `TRANSMISSION` — Direct Comms
 
 <div align="center">
