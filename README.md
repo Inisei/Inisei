@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Inisei&style=for-the-badge&color=7C3AED&label=SYSTEM+ACCESSES" alt="views" />
-<img src="https://img.shields.io/badge/Location-Warsaw%2C%20Poland-161224?style=for-the-badge&logo=googlemaps&logoColor=A855F7" alt="Location" />
+<img src="https://img.shields.io/badge/Location-European%20Union-161224?style=for-the-badge&logo=globe&logoColor=A855F7" alt="Location" />
 <img src="https://img.shields.io/badge/Focus-High--Concurrency%20Backend-161224?style=for-the-badge&logo=fastapi&logoColor=A855F7" alt="Focus" />
 <img src="https://img.shields.io/badge/Status-Operating%2024%2F7%20Clusters-7C3AED?style=for-the-badge&logoColor=white" alt="Status" />
 
@@ -120,36 +120,13 @@ Low-level security research laboratory exploring multi-process supervisor-worker
 
 <br/>
 
-## 📊 `METRICS` — Telemetry & Stats
+## 📡 `TRANSMISSION` — Direct Comms
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Inisei&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0B0813&title_color=A855F7&icon_color=7C3AED&text_color=E9E5F5" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Inisei&hide_border=true&theme=midnight-purple&background=0B0813&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7" alt="streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Inisei&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0B0813&title_color=A855F7&text_color=E9E5F5&langs_count=8" alt="top langs" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Inisei/Inisei/output/snake.svg" alt="contribution snake" />
-  <br/>
-  <sub><i>Autonomous snake traversing the contribution grid.</i></sub>
-</div>
-
-<br/>
-
-## 📡 `TRANSMISSION` — Contact & Access
-
-<div align="center">
-
-<a href="https://t.me/Inisei"><img src="https://img.shields.io/badge/Telegram-161224?style=for-the-badge&logo=telegram&logoColor=A855F7" alt="Telegram" /></a>
-<a href="https://linkedin.com/in/inisei"><img src="https://img.shields.io/badge/LinkedIn-161224?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Direct%20Comms-Encrypted-7C3AED?style=for-the-badge&logoColor=white" alt="Status" />
+<a href="https://guns.lol/inisei" target="_blank"><img src="https://img.shields.io/badge/Guns.lol-inisei-161224?style=for-the-badge&logo=firefox&logoColor=A855F7" alt="Guns.lol" /></a>
+<a href="https://www.linkedin.com/in/pohrebniak-systems-architect/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Roman%20Pohrebniak-161224?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Status-Operating%2024%2F7-7C3AED?style=for-the-badge&logoColor=white" alt="Status" />
 
 <br/><br/>
 
